@@ -22,4 +22,4 @@ The capacitor is charged with the source, then then it switches to the patient, 
 This way, the energy will be delivered during the "R" phase, which is the right time for it.
 <br />
 <br />
-![machine diagram](https://github.com/Safwanmahmoud/cccc/blob/main/wiringdiagram.png)
+![machine diagram](https://github.com/Safwanmahmoud/Automatic-Analog-Defibrilator-Circuit/blob/main/report.PNG)
