@@ -23,3 +23,5 @@ This way, the energy will be delivered during the "R" phase, which is the right 
 <br />
 <br />
 ![machine diagram](https://github.com/Safwanmahmoud/Automatic-Analog-Defibrilator-Circuit/blob/main/report.PNG)
+
+![machine diagram](https://github.com/Safwanmahmoud/Automatic-Analog-Defibrilator-Circuit/blob/main/real%20pic.jpeg)
